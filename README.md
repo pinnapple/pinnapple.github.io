@@ -1,3 +1,3 @@
 # pinnapple.github.io
-Speaker Kreasi Anak Bangsa
-Project Pembuatan Speaker dari Murid sekolahan.
+</br>Speaker Kreasi Anak Bangsa
+</br>Kami hanya kelompok belajar yang mempunyai project Pembuatan Speaker. Kunjungi www.pinnapple.github.io untuk info lebih lanjut.
